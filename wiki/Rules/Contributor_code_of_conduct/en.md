@@ -38,7 +38,9 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour by any volunteer contributors may be reported to the anti-abuse team via email at [abuse@ppy.sh](mailto:abuse@ppy.sh).
 
-Only [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh)) has access to this inbox.
+The community leaders who have access to this inbox are named as:
+
+- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 All complaints will be reviewed and investigated promptly and fairly.
 
