@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f9859a7fb270ea97ea13e8e63aaf055a33b7ed31
+---
+
 # Signaler un abus
 
 ## Je ne sais pas si je dois le signaler ou non
